@@ -10,7 +10,7 @@ module.exports = {
   "AUTO_STICKER": false,
   "AUTO_REPLY": true,
   "AUTO_REACT": false,
-  "WELCOME": true,
+  "WELCOME": false,
   "ANTI_BAD": false,
   "ANTI_BOT": true,
   "ANTI_LINK": false,
